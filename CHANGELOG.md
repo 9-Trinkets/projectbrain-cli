@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.1.2 — 2026-03-24
+
+Initial public release of the ProjectBrain CLI on PyPI. (Packaging fixes from v0.1.1.)
+
 ## v0.1.1 — 2026-03-24
 
 Initial public release of the ProjectBrain CLI.
