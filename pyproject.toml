@@ -7,6 +7,10 @@ license = "MIT"
 authors = [
     { name = "Li-Hsuan Lung", email = "li-hsuan.lung@9trinkets.com" },
 ]
+[project.urls]
+Repository = "https://github.com/9-Trinkets/projectbrain-cli"
+Homepage = "https://projectbrain.tools"
+
 dependencies = [
     "click>=8.1",
     "httpx>=0.27",
