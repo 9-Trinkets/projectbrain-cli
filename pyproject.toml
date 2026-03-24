@@ -1,6 +1,6 @@
 [project]
 name = "project-brain"
-version = "0.1.1"
+version = "0.1.2"
 description = "CLI for ProjectBrain — AI-native project management"
 requires-python = ">=3.11"
 license = "MIT"
